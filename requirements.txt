@@ -1,0 +1,9 @@
+numpy 
+matplotlib
+folium
+contextily 
+shapely
+osmnx 
+osgeo 
+pyproj 
+geopandas 
