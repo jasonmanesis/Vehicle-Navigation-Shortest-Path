@@ -1,6 +1,6 @@
 # Vehicle Navigation-Sortest Path
 
-**Sortest path calculation and route plotting, in interactive Folium map, based on NetworkX's Dijkstra's pathfinding algorithm.**
+**Shortest path calculation and route plotting, in interactive Folium map, based on NetworkX's Dijkstra's pathfinding algorithm.**
 
 # Requirements
 
