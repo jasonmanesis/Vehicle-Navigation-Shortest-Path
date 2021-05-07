@@ -5,7 +5,7 @@
 ## Requirements
 
 <pre>
- GeoPandas                                  OSGeo                                OSMnx                                         
- Folium                                     Matplotlib                           PyProj                 
- Shapely                                    NumPy                                Contextily          
+GeoPandas                             OSGeo                                OSMnx                                         
+Folium                                Matplotlib                           PyProj                 
+Shapely                               NumPy                                Contextily          
 </pre>         
